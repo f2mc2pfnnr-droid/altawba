@@ -1,0 +1,10 @@
+{
+  "name": "altawba \u2014 Istighfar Counter",
+  "short_name": "altawba",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#041522",
+  "theme_color": "#061827",
+  "description": "A rain-themed Astaghfirullah counter with moving prayer beads and progress history."
+}
